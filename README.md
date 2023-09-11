@@ -1,6 +1,6 @@
--  Hi, I’m Mohamed Ahmed Ebrahim @mohamedelshwimy
--  I’m self motivated and have a great enthusiasm towards Software Testing.
--  I enjoy learning new Testing tools and techniques with a passion of career growth.
+-  Hello, I’m Mohamed Ahmed Ebrahim @mohamedelshwimy
+-  I am self-motivated and have a great enthusiasm for software testing.
+-  I enjoy learning new Testing tools and techniques with a passion for career growth.
 -  My goal is to learn and contribute in Software Testing industry in every possible way.
 -  How to reach me (mohamedahmedebrahim97@gmail.com - https://www.linkedin.com/in/mohamedelshwimy/) 
 
