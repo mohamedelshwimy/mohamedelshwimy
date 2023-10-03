@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed Elshwimy! 👋
+# Hi there, I'm Mohamed Ahmed Ebrahim! 👋
 
 I'm a passionate software tester who enjoys turning ideas into code and solving real-world problems through technology. I'm based in Egypt.
 
