@@ -5,7 +5,7 @@ I'm a passionate software tester who enjoys turning ideas into code and solving 
 - 🔭 I'm currently an ITI Trainee in Software Testing Track.
 - 🌱 I'm constantly learning and improving my skills in Software Testing.
 - 💬 Ask me about anything related to software testing or technology. I'm always happy to help and learn from others.
-- 📫 You can reach me via [Email](mailto:https://www.linkedin.com/in/mohamedelshwimy/) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamedelshwimy/).
+- 📫 You can reach me via [Email](mailto:mohamedahmedebrahim97@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamedelshwimy/).
 
 ## ⚡ Technologies and Tools
 
